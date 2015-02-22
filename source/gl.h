@@ -10,6 +10,7 @@
 #endif
 
 #include <math.h>
+#include <stdlib.h>
 
 #define TAU (6.283185308)
 #define ZOOM (0.1)
